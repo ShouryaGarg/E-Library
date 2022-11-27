@@ -19,3 +19,6 @@ Designed for both large and small library systems, E-Library is a comprehensive 
 # Technologies used: HTML5, CSS3, JavaScript and jQuery
 
 # To run the project open index.html
+
+#Submitted by:
+*Shourya Garg (B120059) and Mohammad Asim Khan (B120034)*

@@ -14,8 +14,7 @@ Designed for both large and small library systems, E-Library is a comprehensive 
 8. Number of books, number of books issued, number of journals, etc.
 9. A simple way to see how many books a student has received.
 
-<ins> PS: The back-end is not implemented therefore the issue and record-keeping facilities are
-front-end based only. </ins>
+* <ins> PS: The back-end is not implemented therefore the issue and record-keeping facilities are front-end based only. </ins> *
 
 # Technologies used: HTML5, CSS3, JavaScript and jQuery
 

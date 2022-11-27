@@ -20,5 +20,5 @@ Designed for both large and small library systems, E-Library is a comprehensive 
 
 # To run the project open index.html
 
-#Submitted by:
+# Submitted by:
 *Shourya Garg (B120059) and Mohammad Asim Khan (B120034)*
